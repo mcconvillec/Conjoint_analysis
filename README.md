@@ -2,7 +2,7 @@
 
 This repository was prepared for a tutorial involving students from the Masters of Business Analytics course at Melbourne Business School as part of their "Causal Analytics" module.
 
-View code <a href="https://github.com/mcconvillec/conjoint_analysis/blob/main/conjoint_analysis.R">here</a>
+View code <a href="https://github.com/mcconvillec/conjoint_analysis/blob/main/conjoint_analysis.Rmd">here</a>
 
 In this tutorial we will work through the concept of fractional factorial design covered in Week 5 lectures in the context of designing a user experiment to test user preference for platform interface via conjoint analysis. By the end of this tutorial we should be able to:
 1) Understand why fractional factorial designs are useful 
